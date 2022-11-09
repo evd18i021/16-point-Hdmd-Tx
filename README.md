@@ -75,12 +75,8 @@ Caravel and OpenLANE reports for manufacturability,
 
 # Resources
 
-[SkyWater Open PDK](https://github.com/google/skywater-pdk)
-
-[OpenLane RTL2GDS Compiler](https://github.com/efabless/openlane)
-
-[Caravel Harness](https://github.com/efabless/caravel)
-
-[Caravel User Project](https://github.com/efabless/caravel_user_project)
-
-[Open MPW Precheck](https://github.com/efabless/open_mpw_precheck)
+- [SkyWater Open PDK](https://github.com/google/skywater-pdk)
+- [OpenLane RTL2GDS Compiler](https://github.com/efabless/openlane)
+- [Caravel Harness](https://github.com/efabless/caravel)
+- [Caravel User Project](https://github.com/efabless/caravel_user_project)
+- [Open MPW Precheck](https://github.com/efabless/open_mpw_precheck)
