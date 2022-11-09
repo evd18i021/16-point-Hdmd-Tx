@@ -34,9 +34,6 @@ Verilog HDL RTL simulation Waveforms
 
 ![combined 6](https://user-images.githubusercontent.com/106398260/200920074-1722c314-1fa6-46ec-a4ef-a6d89479d32e.png)
 
-Caravel and OpenLANE reports for manufacturability,
-
-![combined 5](https://user-images.githubusercontent.com/106398260/200922855-9b7f4ee9-ad3e-4d90-af81-3f6901bb1980.png)
 
 Reports, 
 
@@ -52,3 +49,7 @@ Congestion report -
 OpenLANE Flow,
 
 ![combined 2](https://user-images.githubusercontent.com/106398260/200921075-787d82c2-355f-4c4f-9a3c-17ec11989529.png)
+
+Caravel and OpenLANE reports for manufacturability,
+
+![combined 5](https://user-images.githubusercontent.com/106398260/200922855-9b7f4ee9-ad3e-4d90-af81-3f6901bb1980.png)
