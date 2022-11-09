@@ -5,7 +5,7 @@ The advantage of the discrete Hadamard transform is that it only requires 1 & -1
 the transformation procedure. This results in an increase in performance but also avoids
 multiplication, which significantly lowers the hardware requirement.
 
-Design has been carried out using Skywater 130nm PDK using openLANE and caravel open source silico development tools,
+Design has been carried out using Skywater 130nm PDK using openLANE and caravel open source silicon development tools,
 ![openlane flow](https://user-images.githubusercontent.com/106398260/200923562-10258199-deb3-4f2c-9889-5fffb18edf0b.jpg)
 
 
