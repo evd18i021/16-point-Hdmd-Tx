@@ -27,6 +27,8 @@ Similarly 16-point DHT,
 ![butterfly 16 point Hdmd Tx](https://user-images.githubusercontent.com/106398260/200912744-7210721f-9a68-4bdb-93bc-4dfb3b3bcfa9.png)
 
 Circuit is developed in Verilog HDL using instantiation of 2,4,8 point DHTs which in turn uses adder/subtractor
+
+
 ![image](https://user-images.githubusercontent.com/106398260/200922435-9a479b2f-748f-42b0-9478-5169eeeafcb6.png)
 
 Verilog HDL RTL simulation Waveforms
@@ -38,12 +40,18 @@ Verilog HDL RTL simulation Waveforms
 Reports, 
 
 Synthesis Report -
+
+
 ![syn rpt](https://user-images.githubusercontent.com/106398260/200923842-4dde56d9-3eed-429c-997d-70986c9dec91.png)
 
 Power Report -
+
+
 ![power rpt](https://user-images.githubusercontent.com/106398260/200923932-fef7b6c7-7fd3-40da-8c33-72353d239319.png)
 
 Congestion report - 
+
+
 ![cong rpt](https://user-images.githubusercontent.com/106398260/200924171-cf73b80b-f087-4f61-8078-bd7ffb73d837.png)
 
 OpenLANE Flow,
