@@ -30,11 +30,9 @@ Circuit is developed in Verilog HDL using instantiation of 2,4,8 point DHTs whic
 ![image](https://user-images.githubusercontent.com/106398260/200922435-9a479b2f-748f-42b0-9478-5169eeeafcb6.png)
 
 Verilog HDL RTL simulation Waveforms
+
+
 ![combined 6](https://user-images.githubusercontent.com/106398260/200920074-1722c314-1fa6-46ec-a4ef-a6d89479d32e.png)
-
-OpenLANE Flow,
-
-![combined 2](https://user-images.githubusercontent.com/106398260/200921075-787d82c2-355f-4c4f-9a3c-17ec11989529.png)
 
 Caravel and OpenLANE reports for manufacturability,
 
@@ -51,3 +49,6 @@ Power Report -
 Congestion report - 
 ![cong rpt](https://user-images.githubusercontent.com/106398260/200924171-cf73b80b-f087-4f61-8078-bd7ffb73d837.png)
 
+OpenLANE Flow,
+
+![combined 2](https://user-images.githubusercontent.com/106398260/200921075-787d82c2-355f-4c4f-9a3c-17ec11989529.png)
