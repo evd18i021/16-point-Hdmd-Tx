@@ -1,13 +1,22 @@
 # 16-point-Hdmd-Tx
+
+# Hadamard Transform
 Hadamard transform is non-sinusoidal, orthogonal transformation techniques. A signal is composed of basic functions like harmonics in Fourier Transform.This signal can be divided using these fast transforms. In contrast to the Fourier transform, which uses Nlog2N multiplication and addition and is faster, Hadamard Transform uses Nlog2N addition or subtraction.
 
-The advantage of the discrete Hadamard transform is that it only requires 1 & -1 during
-the transformation procedure. This results in an increase in performance but also avoids
-multiplication, which significantly lowers the hardware requirement.
+The advantage of the discrete Hadamard transform is that it only requires 1 & -1 during the transformation procedure. This results in an increase in performance but also avoids multiplication, which significantly lowers the hardware requirement.
+
+# Design using open source silicon kit
+
+Open Source Digital ASIC Design requires three open-source components:  
+- **RTL Designs** = github.com, librecores.org, opencores.org
+- **EDA Tools** = OpenROAD, OpenLANE,QFlow  
+- **PDK** = Google + Skywater 130nm Production PDK
 
 Design has been carried out using Skywater 130nm PDK using openLANE and caravel open source silicon development tools,
+
 ![openlane flow](https://user-images.githubusercontent.com/106398260/200923562-10258199-deb3-4f2c-9889-5fffb18edf0b.jpg)
 
+# Theory
 
 A 2-point Hadamard matrix is represented as,
 
@@ -30,6 +39,8 @@ Circuit is developed in Verilog HDL using instantiation of 2,4,8 point DHTs whic
 
 
 ![image](https://user-images.githubusercontent.com/106398260/200922435-9a479b2f-748f-42b0-9478-5169eeeafcb6.png)
+
+# Results and Reports
 
 Verilog HDL RTL simulation Waveforms
 
@@ -61,3 +72,15 @@ OpenLANE Flow,
 Caravel and OpenLANE reports for manufacturability,
 
 ![image](https://user-images.githubusercontent.com/106398260/200925271-fc4c2061-1067-4e88-a349-576d4a2f9d24.png)
+
+# Resources
+
+[SkyWater Open PDK](https://github.com/google/skywater-pdk)
+
+[OpenLane RTL2GDS Compiler](https://github.com/efabless/openlane)
+
+[Caravel Harness](https://github.com/efabless/caravel)
+
+[Caravel User Project](https://github.com/efabless/caravel_user_project)
+
+[Open MPW Precheck](https://github.com/efabless/open_mpw_precheck)
