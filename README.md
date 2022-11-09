@@ -60,4 +60,4 @@ OpenLANE Flow,
 
 Caravel and OpenLANE reports for manufacturability,
 
-![combined 5](https://user-images.githubusercontent.com/106398260/200922855-9b7f4ee9-ad3e-4d90-af81-3f6901bb1980.png)
+![image](https://user-images.githubusercontent.com/106398260/200925271-fc4c2061-1067-4e88-a349-576d4a2f9d24.png)
